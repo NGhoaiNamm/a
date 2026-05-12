@@ -5,4 +5,11 @@ Bye kk
 them bancokhoekhon
 
 them nice and howas
+<<<<<<< HEAD
 rẻach
+=======
+ádasdasd
+ádasdas
+ádasd
+
+>>>>>>> dev
